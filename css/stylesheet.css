@@ -1,0 +1,96 @@
+html {
+    text-align: center;
+    background: linear-gradient(30deg, yellow, rgb(17, 0, 255), rgb(255, 0, 0));
+}
+
+h1 {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 25px;
+}
+
+li {
+    text-align: center;
+    font-weight: bold;
+    padding: 25px;  
+    border: 5px solid rgb(3, 3, 0);  
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+section {
+   width: 400px;
+   align-content: center;
+}
+
+.yellow1 {
+    background-color: #F5F381;
+}
+.yellow2 {
+    background-color: #FFFF00;
+}
+
+.yellow3 {
+    background-color: #FFCC00;
+}
+
+.yellow4 {
+    background-color: #FF9900;
+}
+
+.yellow5 {
+    background-color: #FF7300;
+}
+
+.red1 {
+    background-color: hsl(7, 100%, 50%);
+}
+
+.red2 {
+    background-color: hsl(0, 100%, 50%);
+}
+
+.red3 {
+    background-color: hsl(356, 100%, 50%);
+}
+
+.red4 {
+    background-color: hsl(345, 100%, 50%);
+}
+
+.red5 {
+    background-color: hsl(332, 100%, 50%);
+}
+
+.blue1 {
+    background-color:rgb(212, 0, 255) ;
+}
+
+.blue2 {
+    background-color: rgb(111, 0, 255);
+    color: white;
+}
+
+.blue3 {
+    background-color: rgb(0, 0, 255);
+    color: white;
+    
+}
+
+.blue4 {
+    background-color: rgb(0, 81, 255);
+    color: white;
+}
+
+.blue5 {
+    background-color: rgb(0, 162, 255);
+}
